@@ -1,6 +1,6 @@
 /*
 
-Sliding Window Counter Algorithm ->
+Sliding Window Algorithm ->
 
 We have a window of size N minutes (in our case N=1). In first 10 seconds there are 5 requests. [0:00–0:10]. In time [01:15] there are another 10 requests.
 The maximum number of requests is calculated by following formula:
